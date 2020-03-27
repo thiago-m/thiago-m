@@ -8,5 +8,10 @@
   },
   "author": "Thiago Marciel F Silva",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "aws-sdk": "^2.647.0",
+    "moment": "^2.24.0",
+    "underscore": "^1.9.2",
+    "uuid": "^7.0.2"
+  }
 }
