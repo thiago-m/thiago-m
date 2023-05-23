@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Thiago-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />   
 </div>
   
-![Snake animation](https://github.com/thiago-m/thiago-m/blob/output/github-contribution-grid-snake.svg)
+# ![Snake animation](https://github.com/thiago-m/thiago-m/blob/output/github-contribution-grid-snake.svg)
   
